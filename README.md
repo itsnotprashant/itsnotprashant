@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=F4D35E&height=200&section=header&text=Hi%20there,%20I%27m%20Prashant!&fontSize=50&fontColor=ffffff&desc=IT%20Student%20in%20Japan%20%7C%20Learning%20Backend%20and%20Cybersecurity&descAlignY=62&fontAlignY=38&animation=fadeIn)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F4C430&width=650&lines=IT+student+from+Nepal,+studying+in+Japan;Learning+Python,+SQL+and+Linux;Exploring+backend+and+cybersecurity;Turning+coffee+into+code+%E2%98%95)
+
 # 💫 About Me:
 🔭 I’m currently working on a small student-record system with Python + MySQL (school project)<br>
 👯 I’m looking to collaborate on beginner-friendly Python or web projects<br>
