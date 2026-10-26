@@ -1,20 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F4D35E&height=200&section=header&text=Hi%20there,%20I%27m%20Prashant!&fontSize=50&fontColor=ffffff&desc=IT%20Student%20in%20Japan%20%7C%20Learning%20Backend%20and%20Cybersecurity&descAlignY=62&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=200&section=header&text=Prashant%20Budha&fontSize=60&fontColor=D4AF37&desc=Code%20Loud,%20Debug%20Louder%20%7C%20IT%20Student%20in%20Japan&descAlignY=58&fontAlignY=38&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F4C430&width=650&lines=IT+student+from+Nepal,+studying+in+Japan;Learning+Python,+SQL+and+Linux;Exploring+backend+and+cybersecurity;Turning+coffee+into+code+%E2%98%95)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=32&pause=1000&color=C0392B&center=true&vCenter=true&width=700&height=70&lines=Hi,+I%27m+Prashant+from+Nepal+%F0%9F%8E%B8;IT+student+rocking+it+in+Japan;Python,+SQL+and+Linux+at+full+volume;Shredding+bugs+like+guitar+solos+%F0%9F%A4%98" />
+</p>
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### 💫 About Me
+### 🎸 About Me
 🔭 I’m currently working on a small student-record system with Python + MySQL (school project)<br>
 👯 I’m looking to collaborate on beginner-friendly Python or web projects<br>
 🤝 I’m looking for help with backend development, cybersecurity, and writing cleaner code<br>
 🌱 I’m currently learning Python, SQL, JavaScript, Linux, AWS and cybersecurity<br>
 💬 Ask me about HTML/CSS basics, Python basics, SQL, Linux, or studying IT in Japan<br>
-⚡ Fun fact: I’m from Nepal, I study IT in Japan in Japanese, and I passed JLPT N2
+⚡ Fun fact: I’m from Nepal, I study IT in Japan in Japanese, and I passed JLPT N2<br>
+🤘 When I’m not coding: listening to Guns N’ Roses
 
-### 🛠️ Tech Stack
+### 🔥 Tech Stack
 <table>
 <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,js,html,css,bash" height="40"/></td></tr>
 <tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=mysql" height="40"/></td></tr>
@@ -27,10 +30,10 @@
 </td>
 <td width="45%" valign="top">
 
-<img src="https://github-readme-stats.shion.dev/api?username=itsnotprashant&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsnotprashant&theme=tokyonight&hide_border=false&layout=compact" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsnotprashant&theme=tokyonight&utcOffset=9" width="100%"/>
-<img src="https://streak-stats.demolab.com/?user=itsnotprashant&theme=tokyonight&hide_border=false" width="100%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=itsnotprashant&theme=dark&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=C0392B&text_color=EDEDED&icon_color=D4AF37&ring_color=C0392B&border_color=8B0000" width="100%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsnotprashant&theme=dark&layout=compact&bg_color=0D0D0D&title_color=C0392B&text_color=EDEDED&border_color=8B0000" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsnotprashant&theme=dark&utcOffset=9&bg_color=0D0D0D&title_color=C0392B&text_color=EDEDED&icon_color=D4AF37&chart_color=C0392B&border_color=8B0000" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=itsnotprashant&theme=dark&background=0D0D0D&border=8B0000&stroke=8B0000&ring=C0392B&fire=D4AF37&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=C0392B&sideLabels=D4AF37&dates=999999" width="100%"/>
 
 </td>
 </tr>
@@ -43,7 +46,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/itsnotprashant/itsnotprashant/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
-[![](https://komarev.com/ghpvc/?username=itsnotprashant&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsnotprashant&color=red" />
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=footer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
