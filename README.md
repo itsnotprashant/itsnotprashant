@@ -38,6 +38,10 @@
   <img src="https://streak-stats.demolab.com/?user=itsnotprashant&theme=dark&background=0D0D0D&border=8B0000&stroke=8B0000&ring=C0392B&fire=D4AF37&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=C0392B&sideLabels=D4AF37&dates=999999" height="165" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="profile-3d-contrib/profile-rock.svg" alt="3D contribution calendar" />
+</p>
+
 ### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsnotprashant/itsnotprashant/output/github-contribution-grid-snake-dark.svg" />
