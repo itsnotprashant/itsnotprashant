@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-rock.svg" alt="3D contribution calendar" />
+  <img src="profile-3d-contrib/profile-rock.svg" alt="3D contribution calendar" width="80%" />
 </p>
 
 ### 🐍 Contribution Snake
