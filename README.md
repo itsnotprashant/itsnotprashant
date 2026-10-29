@@ -4,7 +4,8 @@
 
 <p align="center">
   <b>i love coding</b>&nbsp;&nbsp;<img src="assets/cat_coding.gif" alt="cat coding" height="70">&nbsp;&nbsp;&nbsp;
-  <b>and big fan of slash</b>&nbsp;&nbsp;<img src="assets/slash.gif" alt="slash playing guitar" height="95">
+  <b>and big fan of slash</b>&nbsp;&nbsp;<img src="assets/slash.gif" alt="slash playing guitar" height="95">&nbsp;&nbsp;&nbsp;
+  <b>i'm</b>&nbsp;<img src="assets/learning.gif" alt="learning" height="95">
 </p>
 
 <br>
