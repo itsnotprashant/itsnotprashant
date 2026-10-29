@@ -14,11 +14,24 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Download the 3D calendar tool (v0.9.3)
+        run: git clone --depth 1 --branch v0.9.3 https://github.com/yoshi389111/github-profile-3d-contrib.git "$RUNNER_TEMP/p3d"
+
+      - name: Show language percentages and hide "other"
+        run: node .github/scripts/patch-3d-languages.js "$RUNNER_TEMP/p3d/dist/index.js"
+
+      - name: Generate the 3D calendar
+        run: node "$RUNNER_TEMP/p3d/dist/index.js"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d-settings.json
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
