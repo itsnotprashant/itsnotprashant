@@ -3,10 +3,6 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=32&pause=1000&color=C0392B&center=true&vCenter=true&width=700&height=70&lines=Hi,+I%27m+Prashant+from+Nepal+%F0%9F%8E%B8;IT+student+rocking+it+in+Japan;Python,+SQL+and+Linux+at+full+volume;Shredding+bugs+like+guitar+solos+%F0%9F%A4%98" />
-</p>
-
-<p align="center">
   <b>i love coding</b>&nbsp;&nbsp;<img src="assets/cat_coding.gif" alt="cat coding" height="70">&nbsp;&nbsp;&nbsp;
   <b>and big fan of slash</b>&nbsp;&nbsp;<img src="assets/slash.gif" alt="slash playing guitar" height="95">
 </p>
