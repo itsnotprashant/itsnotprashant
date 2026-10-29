@@ -29,15 +29,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsnotprashant&theme=dark&layout=compact&bg_color=0D0D0D&title_color=C0392B&text_color=EDEDED&border_color=8B0000" height="165" alt="Most used languages" />
-  <img src="https://streak-stats.demolab.com/?user=itsnotprashant&theme=dark&background=0D0D0D&border=8B0000&stroke=8B0000&ring=C0392B&fire=D4AF37&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=C0392B&sideLabels=D4AF37&dates=999999" height="165" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsnotprashant&theme=dark&utcOffset=9&bg_color=0D0D0D&title_color=C0392B&text_color=EDEDED&icon_color=D4AF37&chart_color=C0392B&border_color=8B0000" height="165" alt="Commits by hour" />
-</p>
-
-<p align="center">
   <img src="profile-3d-contrib/profile-rock.svg" alt="3D contribution calendar" />
 </p>
 
