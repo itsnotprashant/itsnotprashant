@@ -11,11 +11,11 @@
 <br>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+  <img src="assets/icons/python-icon.svg" alt="Python" width="55" height="55" />&nbsp;
+  <img src="assets/icons/js-icon.svg" alt="JavaScript" width="55" height="55" />&nbsp;
+  <img src="assets/icons/mysql-icon.svg" alt="MySQL" width="55" height="55" />&nbsp;
+  <img src="assets/icons/aws-icon.svg" alt="AWS" width="55" height="55" />&nbsp;
+  <img src="assets/icons/github-icon.svg" alt="GitHub" width="55" height="55" />
 </p>
 
 <p align="center">
